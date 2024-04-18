@@ -4,4 +4,4 @@
 
 ### Autor: _Ranieri Jesuino_
 
-![Thumbnail](thumbnail.png)
+![Thumbnail](thumbnail.jpg)
